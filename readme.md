@@ -46,6 +46,8 @@ Make the file executable:
 
 Run the application:
    ```$ ./start.sh ```
+      or 
+ ```$ bash start.sh ```   
 
 Now navigate to your browser at: ```localhost:5000```
 
