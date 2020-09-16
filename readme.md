@@ -2,7 +2,7 @@
  <img src="">
 
 #### By:
-1. Joseph Nganga ; lead developer
+1. Eugene Kiprotich; lead developer
 1. Moringa TM's ; Mentors
 1. Moringa Students ; Assistant designers
 
