@@ -36,7 +36,7 @@ First clone the repo
    ```$ git clone  ```
 
 After cloning, navigate to the project:
-   `` $ cd news-flask``
+   `` $ cd News-API``
 
 Then install all the requirements through pip:
    ```$ pip install -r requirements.txt ```
@@ -60,11 +60,11 @@ Now navigate to your browser at: ```localhost:5000```
 ## Support and contact details
 call me on
 
-<img src="https://bit.ly/2H4L6UZ" width="109" style="border-radius:50%;">:0798734442
+<img src="https://bit.ly/2H4L6UZ" width="109" style="border-radius:50%;">:0723574552
 
-<img src="https://bit.ly/383xk0Z" width="109" style="border-radius:50%;">:0778378174
+
  
- <img src="https://bit.ly/2Smueyp" width="109" style="border-radius:50%;">:nungari100@gmail.com
+ <img src="https://bit.ly/2Smueyp" width="109" style="border-radius:50%;">:Eugenekiprotich0@gmail.com
 
 ## License
 
