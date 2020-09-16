@@ -1,0 +1,30 @@
+<!-- {% extends 'base.html' %}
+<!-- {% import 'macros.html' as macro %} -->
+
+
+{% block content %}
+<style>
+    body {
+        /* background-image: url("https://i.pinimg.com/564x/6f/d6/8c/6fd68ced202b643053e9f281de52a016.jpg"); */
+        background-image: cover;
+        background-repeat: no-repeat;
+
+  background-position: right top;
+  background-attachment: fixed;
+    }
+</style>
+
+
+<h3 class="text-center"> Found {{ news | count }} search results</h3>
+    <hr><br><br><br>
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+                {{ macro.dispalyNewsList(news) }}
+        </div>
+
+        
+
+    </div>
+
+    {% endblock %} -->
