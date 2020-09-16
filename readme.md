@@ -69,5 +69,5 @@ call me on
 ## License
 
 [MIT License](LICENSE.md)
-Copyright (c) [2020] [Joseph Nganga]
+Copyright (c) [2020] [Eugene Kiprotich]
 </a>
