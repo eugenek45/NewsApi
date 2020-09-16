@@ -1,5 +1,5 @@
 # News API Application
- <img src="./Capture.PNG">
+ <img src="Capture.PNG">
 
 #### By:
 1. Eugene Kiprotich; lead developer
